@@ -1,0 +1,2450 @@
+[
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 1,
+        "driver": "Lewis Hamilton",
+        "team": "OSCA",
+        "performance": 66.73,
+        "dnf": false,
+        "points": 25
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 2,
+        "driver": "Michael Schumacher",
+        "team": "Connaught",
+        "performance": 56.879999999999995,
+        "dnf": false,
+        "points": 18
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 3,
+        "driver": "Jean-Pierre Beltoise",
+        "team": "Gordini",
+        "performance": 56.839999999999996,
+        "dnf": false,
+        "points": 15
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 4,
+        "driver": "Nelson Piquet",
+        "team": "Kuzma",
+        "performance": 56.480000000000004,
+        "dnf": false,
+        "points": 12
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 5,
+        "driver": "David Coulthard",
+        "team": "Kurtis Kraft",
+        "performance": 53.0,
+        "dnf": false,
+        "points": 11
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 6,
+        "driver": "Lewis Hamilton",
+        "team": "HWM",
+        "performance": 52.72,
+        "dnf": false,
+        "points": 8
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 7,
+        "driver": "Felipe Massa",
+        "team": "AFM",
+        "performance": 49.55,
+        "dnf": false,
+        "points": 6
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 8,
+        "driver": "Roy Salvadori",
+        "team": "Kuzma",
+        "performance": 41.62,
+        "dnf": false,
+        "points": 4
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 9,
+        "driver": "Corrado Fabi",
+        "team": "Cooper",
+        "performance": 40.809999999999995,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 10,
+        "driver": "Consalvo Sanesi",
+        "team": "Ferrari",
+        "performance": 40.0,
+        "dnf": false,
+        "points": 1
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 11,
+        "driver": "Pedro Lamy",
+        "team": "Kurtis Kraft",
+        "performance": 38.72,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 12,
+        "driver": "Nikita Mazepin",
+        "team": "OSCA",
+        "performance": 36.54,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 13,
+        "driver": "Innes Ireland",
+        "team": "Heck",
+        "performance": 35.599999999999994,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 14,
+        "driver": "Mike Hailwood",
+        "team": "ERA",
+        "performance": 33.89,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 15,
+        "driver": "Esteban Tuero",
+        "team": "HWM",
+        "performance": 32.35,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 16,
+        "driver": "Alan Brown",
+        "team": "Maserati",
+        "performance": 31.96,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 17,
+        "driver": "Brian Hart",
+        "team": "Ferrari",
+        "performance": 30.459999999999997,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 18,
+        "driver": "Pedro Diniz",
+        "team": "Aston Butterworth",
+        "performance": 29.620000000000005,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 19,
+        "driver": "Scott Speed",
+        "team": "Veritas",
+        "performance": 29.599999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 20,
+        "driver": "Carlos Menditeguy",
+        "team": "Heck",
+        "performance": 28.599999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 21,
+        "driver": "Luki Botha",
+        "team": "Gordini",
+        "performance": 28.310000000000002,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 22,
+        "driver": "George Abecassis",
+        "team": "Krakau",
+        "performance": 27.199999999999996,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 23,
+        "driver": "Ken Downing",
+        "team": "Balsa",
+        "performance": 26.93,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 24,
+        "driver": "Giovanna Amati",
+        "team": "Maserati",
+        "performance": 24.74,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 25,
+        "driver": "Alberto Colombo",
+        "team": "Lesovsky",
+        "performance": 24.72,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 26,
+        "driver": "Alberto Ur\u00eda",
+        "team": "Lesovsky",
+        "performance": 24.45,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 27,
+        "driver": "Bruno Senna",
+        "team": "Simca",
+        "performance": 23.39999999999999,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 28,
+        "driver": "Hans Binder",
+        "team": "Veritas",
+        "performance": 23.24,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 29,
+        "driver": "Ian Raby",
+        "team": "Simca",
+        "performance": 21.979999999999997,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 30,
+        "driver": "Jack Aitken",
+        "team": "Connaught",
+        "performance": 19.560000000000002,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 31,
+        "driver": "Dick Gibson",
+        "team": "Nacke",
+        "performance": 15.979999999999999,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 32,
+        "driver": "Franco Comotti",
+        "team": "Alta",
+        "performance": 15.36,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 33,
+        "driver": "Andr\u00e9 Guelfi",
+        "team": "Cooper",
+        "performance": 13.68,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 34,
+        "driver": "Roberto Lippi",
+        "team": "Reif",
+        "performance": 12.76,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 35,
+        "driver": "Gus Hutchison",
+        "team": "Reif",
+        "performance": 7.6800000000000015,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 36,
+        "driver": "Arturo Merzario",
+        "team": "Frazer Nash",
+        "performance": 34.00999999999999,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 37,
+        "driver": "Roberto Moreno",
+        "team": "Frazer Nash",
+        "performance": 36.779999999999994,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 38,
+        "driver": "Boy Hayje",
+        "team": "AFM",
+        "performance": 22.0,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 39,
+        "driver": "Giovanna Amati",
+        "team": "Alta",
+        "performance": 18.46,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 40,
+        "driver": "Jorge Daponte",
+        "team": "ERA",
+        "performance": 31.25,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 41,
+        "driver": "Ian Burgess",
+        "team": "Aston Butterworth",
+        "performance": 36.19,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 42,
+        "driver": "Ken Downing",
+        "team": "Balsa",
+        "performance": 21.919999999999998,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 43,
+        "driver": "Rodger Ward",
+        "team": "Nacke",
+        "performance": 34.8,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 44,
+        "driver": "Tim Parnell",
+        "team": "Krakau",
+        "performance": 31.5,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 1,
+        "driver": "Lewis Hamilton",
+        "team": "HWM",
+        "performance": 61.36,
+        "dnf": false,
+        "points": 25
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 2,
+        "driver": "Lewis Hamilton",
+        "team": "OSCA",
+        "performance": 56.37,
+        "dnf": false,
+        "points": 18
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 3,
+        "driver": "Michael Schumacher",
+        "team": "Connaught",
+        "performance": 53.04,
+        "dnf": false,
+        "points": 15
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 4,
+        "driver": "David Coulthard",
+        "team": "Kurtis Kraft",
+        "performance": 53.0,
+        "dnf": false,
+        "points": 13
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 5,
+        "driver": "Roberto Moreno",
+        "team": "Frazer Nash",
+        "performance": 52.28999999999999,
+        "dnf": false,
+        "points": 10
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 6,
+        "driver": "Arturo Merzario",
+        "team": "Frazer Nash",
+        "performance": 46.91,
+        "dnf": false,
+        "points": 8
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 7,
+        "driver": "Felipe Massa",
+        "team": "AFM",
+        "performance": 43.67,
+        "dnf": false,
+        "points": 6
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 8,
+        "driver": "Consalvo Sanesi",
+        "team": "Ferrari",
+        "performance": 41.2,
+        "dnf": false,
+        "points": 4
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 9,
+        "driver": "Corrado Fabi",
+        "team": "Cooper",
+        "performance": 38.66,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 10,
+        "driver": "Alan Brown",
+        "team": "Maserati",
+        "performance": 38.12,
+        "dnf": false,
+        "points": 1
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 11,
+        "driver": "Nikita Mazepin",
+        "team": "OSCA",
+        "performance": 35.8,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 12,
+        "driver": "Innes Ireland",
+        "team": "Heck",
+        "performance": 35.599999999999994,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 13,
+        "driver": "Brian Hart",
+        "team": "Ferrari",
+        "performance": 35.5,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 14,
+        "driver": "Mike Hailwood",
+        "team": "ERA",
+        "performance": 33.65,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 15,
+        "driver": "Pedro Diniz",
+        "team": "Aston Butterworth",
+        "performance": 33.38,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 16,
+        "driver": "Esteban Tuero",
+        "team": "HWM",
+        "performance": 31.93,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 17,
+        "driver": "Scott Speed",
+        "team": "Veritas",
+        "performance": 29.599999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 18,
+        "driver": "Carlos Menditeguy",
+        "team": "Heck",
+        "performance": 28.799999999999997,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 19,
+        "driver": "Rodger Ward",
+        "team": "Nacke",
+        "performance": 28.2,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 20,
+        "driver": "Ian Burgess",
+        "team": "Aston Butterworth",
+        "performance": 25.529999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 21,
+        "driver": "Andr\u00e9 Guelfi",
+        "team": "Cooper",
+        "performance": 22.42,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 22,
+        "driver": "Giovanna Amati",
+        "team": "Maserati",
+        "performance": 22.13,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 23,
+        "driver": "Boy Hayje",
+        "team": "AFM",
+        "performance": 20.2,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 24,
+        "driver": "Luki Botha",
+        "team": "Gordini",
+        "performance": 19.34,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 25,
+        "driver": "Giovanna Amati",
+        "team": "Alta",
+        "performance": 15.079999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 26,
+        "driver": "Dick Gibson",
+        "team": "Nacke",
+        "performance": 14.509999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 27,
+        "driver": "Franco Comotti",
+        "team": "Alta",
+        "performance": 14.319999999999999,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 28,
+        "driver": "Ken Downing",
+        "team": "Balsa",
+        "performance": 14.059999999999999,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 29,
+        "driver": "Jack Aitken",
+        "team": "Connaught",
+        "performance": 13.120000000000001,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 30,
+        "driver": "Ken Downing",
+        "team": "Balsa",
+        "performance": 12.079999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 31,
+        "driver": "Tim Parnell",
+        "team": "Krakau",
+        "performance": 11.5,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 32,
+        "driver": "Alberto Colombo",
+        "team": "Lesovsky",
+        "performance": 10.019999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 33,
+        "driver": "Gus Hutchison",
+        "team": "Reif",
+        "performance": 9.920000000000002,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 34,
+        "driver": "Roberto Lippi",
+        "team": "Reif",
+        "performance": 9.88,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 35,
+        "driver": "George Abecassis",
+        "team": "Krakau",
+        "performance": 4.25,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 36,
+        "driver": "Jean-Pierre Beltoise",
+        "team": "Gordini",
+        "performance": 36.67999999999999,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 37,
+        "driver": "Roy Salvadori",
+        "team": "Kuzma",
+        "performance": 41.459999999999994,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 38,
+        "driver": "Nelson Piquet",
+        "team": "Kuzma",
+        "performance": 56.32,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 39,
+        "driver": "Pedro Lamy",
+        "team": "Kurtis Kraft",
+        "performance": 38.0,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 40,
+        "driver": "Alberto Ur\u00eda",
+        "team": "Lesovsky",
+        "performance": 18.75,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 41,
+        "driver": "Ian Raby",
+        "team": "Simca",
+        "performance": 23.849999999999998,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 42,
+        "driver": "Bruno Senna",
+        "team": "Simca",
+        "performance": 36.599999999999994,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 43,
+        "driver": "Hans Binder",
+        "team": "Veritas",
+        "performance": 23.38,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 44,
+        "driver": "Jorge Daponte",
+        "team": "ERA",
+        "performance": 6.950000000000001,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 1,
+        "driver": "Lewis Hamilton",
+        "team": "OSCA",
+        "performance": 59.7,
+        "dnf": false,
+        "points": 25
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 2,
+        "driver": "Nelson Piquet",
+        "team": "Kuzma",
+        "performance": 55.84,
+        "dnf": false,
+        "points": 18
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 3,
+        "driver": "Lewis Hamilton",
+        "team": "HWM",
+        "performance": 52.480000000000004,
+        "dnf": false,
+        "points": 15
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 4,
+        "driver": "Felipe Massa",
+        "team": "AFM",
+        "performance": 50.599999999999994,
+        "dnf": false,
+        "points": 13
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 5,
+        "driver": "Bruno Senna",
+        "team": "Simca",
+        "performance": 40.599999999999994,
+        "dnf": false,
+        "points": 10
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 6,
+        "driver": "Consalvo Sanesi",
+        "team": "Ferrari",
+        "performance": 39.94,
+        "dnf": false,
+        "points": 8
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 7,
+        "driver": "Ian Burgess",
+        "team": "Aston Butterworth",
+        "performance": 39.879999999999995,
+        "dnf": false,
+        "points": 6
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 8,
+        "driver": "Pedro Lamy",
+        "team": "Kurtis Kraft",
+        "performance": 38.959999999999994,
+        "dnf": false,
+        "points": 4
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 9,
+        "driver": "Rodger Ward",
+        "team": "Nacke",
+        "performance": 36.4,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 10,
+        "driver": "Innes Ireland",
+        "team": "Heck",
+        "performance": 35.599999999999994,
+        "dnf": false,
+        "points": 1
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 11,
+        "driver": "Mike Hailwood",
+        "team": "ERA",
+        "performance": 34.08,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 12,
+        "driver": "Brian Hart",
+        "team": "Ferrari",
+        "performance": 31.089999999999996,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 13,
+        "driver": "Scott Speed",
+        "team": "Veritas",
+        "performance": 29.599999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 14,
+        "driver": "Carlos Menditeguy",
+        "team": "Heck",
+        "performance": 29.5,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 15,
+        "driver": "Tim Parnell",
+        "team": "Krakau",
+        "performance": 28.5,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 16,
+        "driver": "Alan Brown",
+        "team": "Maserati",
+        "performance": 26.24,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 17,
+        "driver": "Giovanna Amati",
+        "team": "Maserati",
+        "performance": 26.0,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 18,
+        "driver": "Pedro Diniz",
+        "team": "Aston Butterworth",
+        "performance": 25.860000000000003,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 19,
+        "driver": "Esteban Tuero",
+        "team": "HWM",
+        "performance": 25.21,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 20,
+        "driver": "Corrado Fabi",
+        "team": "Cooper",
+        "performance": 24.899999999999995,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 21,
+        "driver": "Boy Hayje",
+        "team": "AFM",
+        "performance": 23.099999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 22,
+        "driver": "Alberto Ur\u00eda",
+        "team": "Lesovsky",
+        "performance": 22.95,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 23,
+        "driver": "Alberto Colombo",
+        "team": "Lesovsky",
+        "performance": 22.62,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 24,
+        "driver": "Franco Comotti",
+        "team": "Alta",
+        "performance": 21.86,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 25,
+        "driver": "Giovanna Amati",
+        "team": "Alta",
+        "performance": 18.33,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 26,
+        "driver": "Dick Gibson",
+        "team": "Nacke",
+        "performance": 15.77,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 27,
+        "driver": "Ken Downing",
+        "team": "Balsa",
+        "performance": 9.919999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 28,
+        "driver": "Jorge Daponte",
+        "team": "ERA",
+        "performance": 8.75,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 29,
+        "driver": "George Abecassis",
+        "team": "Krakau",
+        "performance": 8.299999999999999,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 30,
+        "driver": "Jack Aitken",
+        "team": "Connaught",
+        "performance": 8.060000000000002,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 31,
+        "driver": "Luki Botha",
+        "team": "Gordini",
+        "performance": 29.48,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 32,
+        "driver": "Jean-Pierre Beltoise",
+        "team": "Gordini",
+        "performance": 62.11999999999999,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 33,
+        "driver": "Andr\u00e9 Guelfi",
+        "team": "Cooper",
+        "performance": 33.82,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 34,
+        "driver": "Roy Salvadori",
+        "team": "Kuzma",
+        "performance": 41.779999999999994,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 35,
+        "driver": "David Coulthard",
+        "team": "Kurtis Kraft",
+        "performance": 53.0,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 36,
+        "driver": "Michael Schumacher",
+        "team": "Connaught",
+        "performance": 68.39999999999999,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 37,
+        "driver": "Arturo Merzario",
+        "team": "Frazer Nash",
+        "performance": 40.459999999999994,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 38,
+        "driver": "Roberto Moreno",
+        "team": "Frazer Nash",
+        "performance": 34.42999999999999,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 39,
+        "driver": "Ian Raby",
+        "team": "Simca",
+        "performance": 26.599999999999998,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 40,
+        "driver": "Hans Binder",
+        "team": "Veritas",
+        "performance": 30.52,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 41,
+        "driver": "Nikita Mazepin",
+        "team": "OSCA",
+        "performance": 31.36,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 42,
+        "driver": "Roberto Lippi",
+        "team": "Reif",
+        "performance": 21.72,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 43,
+        "driver": "Gus Hutchison",
+        "team": "Reif",
+        "performance": 10.56,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 44,
+        "driver": "Ken Downing",
+        "team": "Balsa",
+        "performance": 5.089999999999998,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 1,
+        "driver": "Patrick Tambay",
+        "team": "Deidt",
+        "performance": 52.39,
+        "dnf": false,
+        "points": 26
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 2,
+        "driver": "Johnny Cecotto",
+        "team": "Alfa Romeo",
+        "performance": 49.35,
+        "dnf": false,
+        "points": 18
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 3,
+        "driver": "Zhou Guanyu",
+        "team": "Talbot Lago",
+        "performance": 47.68,
+        "dnf": false,
+        "points": 15
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 4,
+        "driver": "Carel Godin de Beaufort",
+        "team": "Cooper",
+        "performance": 42.8,
+        "dnf": false,
+        "points": 12
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 5,
+        "driver": "Bruno Giacomelli",
+        "team": "Kurtis Kraft",
+        "performance": 34.36,
+        "dnf": false,
+        "points": 10
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 6,
+        "driver": "Piero Scotti",
+        "team": "Ferrari",
+        "performance": 30.2,
+        "dnf": false,
+        "points": 8
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 7,
+        "driver": "Peter Hirt",
+        "team": "Ferrari",
+        "performance": 30.0,
+        "dnf": false,
+        "points": 6
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 8,
+        "driver": "Rikky von Opel",
+        "team": "Simca",
+        "performance": 27.200000000000003,
+        "dnf": false,
+        "points": 4
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 9,
+        "driver": "Doug Serrurier",
+        "team": "Kurtis Kraft",
+        "performance": 26.349999999999998,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 10,
+        "driver": "Pascal Fabre",
+        "team": "Alta",
+        "performance": 25.81,
+        "dnf": false,
+        "points": 1
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 11,
+        "driver": "Paco Godia",
+        "team": "Cooper",
+        "performance": 25.52,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 12,
+        "driver": "Hans Stuck",
+        "team": "Maserati",
+        "performance": 25.25,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 13,
+        "driver": "Neville Lederle",
+        "team": "Simca",
+        "performance": 21.019999999999996,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 14,
+        "driver": "Syd van der Vyver",
+        "team": "Alfa Romeo",
+        "performance": 23.56,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 15,
+        "driver": "Maur\u00edcio Gugelmin",
+        "team": "Talbot Lago",
+        "performance": 54.81999999999999,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 16,
+        "driver": "Pablo Birger",
+        "team": "Maserati",
+        "performance": 22.49,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 17,
+        "driver": "Elio de Angelis",
+        "team": "Deidt",
+        "performance": 44.5,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 18,
+        "driver": "Luigi Fagioli",
+        "team": "ERA",
+        "performance": 29.300000000000004,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 19,
+        "driver": "Daniel Ricciardo",
+        "team": "ERA",
+        "performance": 41.769999999999996,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 20,
+        "driver": "Luiz Bueno",
+        "team": "Alta",
+        "performance": 12.620000000000001,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 1,
+        "driver": "Johnny Cecotto",
+        "team": "Alfa Romeo",
+        "performance": 49.63,
+        "dnf": false,
+        "points": 25
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 2,
+        "driver": "Bruno Giacomelli",
+        "team": "Kurtis Kraft",
+        "performance": 48.44,
+        "dnf": false,
+        "points": 18
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 3,
+        "driver": "Zhou Guanyu",
+        "team": "Talbot Lago",
+        "performance": 45.12,
+        "dnf": false,
+        "points": 15
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 4,
+        "driver": "Daniel Ricciardo",
+        "team": "ERA",
+        "performance": 42.74999999999999,
+        "dnf": false,
+        "points": 12
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 5,
+        "driver": "Elio de Angelis",
+        "team": "Deidt",
+        "performance": 42.5,
+        "dnf": false,
+        "points": 10
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 6,
+        "driver": "Maur\u00edcio Gugelmin",
+        "team": "Talbot Lago",
+        "performance": 41.13999999999999,
+        "dnf": false,
+        "points": 8
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 7,
+        "driver": "Peter Hirt",
+        "team": "Ferrari",
+        "performance": 34.6,
+        "dnf": false,
+        "points": 7
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 8,
+        "driver": "Luigi Fagioli",
+        "team": "ERA",
+        "performance": 29.950000000000003,
+        "dnf": false,
+        "points": 4
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 9,
+        "driver": "Doug Serrurier",
+        "team": "Kurtis Kraft",
+        "performance": 27.05,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 10,
+        "driver": "Carel Godin de Beaufort",
+        "team": "Cooper",
+        "performance": 26.419999999999998,
+        "dnf": false,
+        "points": 1
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 11,
+        "driver": "Paco Godia",
+        "team": "Cooper",
+        "performance": 25.25,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 12,
+        "driver": "Pablo Birger",
+        "team": "Maserati",
+        "performance": 24.11,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 13,
+        "driver": "Piero Scotti",
+        "team": "Ferrari",
+        "performance": 24.080000000000002,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 14,
+        "driver": "Hans Stuck",
+        "team": "Maserati",
+        "performance": 20.93,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 15,
+        "driver": "Neville Lederle",
+        "team": "Simca",
+        "performance": 18.159999999999997,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 16,
+        "driver": "Luiz Bueno",
+        "team": "Alta",
+        "performance": 10.280000000000001,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 17,
+        "driver": "Syd van der Vyver",
+        "team": "Alfa Romeo",
+        "performance": 39.4,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 18,
+        "driver": "Patrick Tambay",
+        "team": "Deidt",
+        "performance": 40.64,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 19,
+        "driver": "Rikky von Opel",
+        "team": "Simca",
+        "performance": 27.3,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 20,
+        "driver": "Pascal Fabre",
+        "team": "Alta",
+        "performance": 26.02,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 1,
+        "driver": "Johnny Cecotto",
+        "team": "Alfa Romeo",
+        "performance": 47.74,
+        "dnf": false,
+        "points": 25
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 2,
+        "driver": "Patrick Tambay",
+        "team": "Deidt",
+        "performance": 43.46,
+        "dnf": false,
+        "points": 18
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 3,
+        "driver": "Elio de Angelis",
+        "team": "Deidt",
+        "performance": 42.8,
+        "dnf": false,
+        "points": 15
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 4,
+        "driver": "Zhou Guanyu",
+        "team": "Talbot Lago",
+        "performance": 41.599999999999994,
+        "dnf": false,
+        "points": 12
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 5,
+        "driver": "Daniel Ricciardo",
+        "team": "ERA",
+        "performance": 41.279999999999994,
+        "dnf": false,
+        "points": 10
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 6,
+        "driver": "Syd van der Vyver",
+        "team": "Alfa Romeo",
+        "performance": 36.76,
+        "dnf": false,
+        "points": 9
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 7,
+        "driver": "Luigi Fagioli",
+        "team": "ERA",
+        "performance": 34.760000000000005,
+        "dnf": false,
+        "points": 6
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 8,
+        "driver": "Bruno Giacomelli",
+        "team": "Kurtis Kraft",
+        "performance": 32.16,
+        "dnf": false,
+        "points": 4
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 9,
+        "driver": "Peter Hirt",
+        "team": "Ferrari",
+        "performance": 31.380000000000003,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 10,
+        "driver": "Doug Serrurier",
+        "team": "Kurtis Kraft",
+        "performance": 27.5,
+        "dnf": false,
+        "points": 1
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 11,
+        "driver": "Carel Godin de Beaufort",
+        "team": "Cooper",
+        "performance": 26.0,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 12,
+        "driver": "Rikky von Opel",
+        "team": "Simca",
+        "performance": 25.95,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 13,
+        "driver": "Hans Stuck",
+        "team": "Maserati",
+        "performance": 25.790000000000003,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 14,
+        "driver": "Paco Godia",
+        "team": "Cooper",
+        "performance": 25.759999999999998,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 15,
+        "driver": "Pablo Birger",
+        "team": "Maserati",
+        "performance": 23.299999999999997,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 16,
+        "driver": "Luiz Bueno",
+        "team": "Alta",
+        "performance": 7.3999999999999995,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 17,
+        "driver": "Piero Scotti",
+        "team": "Ferrari",
+        "performance": 23.060000000000002,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 18,
+        "driver": "Maur\u00edcio Gugelmin",
+        "team": "Talbot Lago",
+        "performance": 37.71999999999999,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 19,
+        "driver": "Neville Lederle",
+        "team": "Simca",
+        "performance": 15.959999999999999,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 20,
+        "driver": "Pascal Fabre",
+        "team": "Alta",
+        "performance": 26.240000000000002,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 1,
+        "driver": "Johnny Cecotto",
+        "team": "Alfa Romeo",
+        "performance": 50.61,
+        "dnf": false,
+        "points": 25
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 2,
+        "driver": "Patrick Tambay",
+        "team": "Deidt",
+        "performance": 48.16,
+        "dnf": false,
+        "points": 18
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 3,
+        "driver": "Zhou Guanyu",
+        "team": "Talbot Lago",
+        "performance": 46.559999999999995,
+        "dnf": false,
+        "points": 15
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 4,
+        "driver": "Elio de Angelis",
+        "team": "Deidt",
+        "performance": 44.3,
+        "dnf": false,
+        "points": 12
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 5,
+        "driver": "Syd van der Vyver",
+        "team": "Alfa Romeo",
+        "performance": 43.8,
+        "dnf": false,
+        "points": 10
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 6,
+        "driver": "Carel Godin de Beaufort",
+        "team": "Cooper",
+        "performance": 39.019999999999996,
+        "dnf": false,
+        "points": 8
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 7,
+        "driver": "Peter Hirt",
+        "team": "Ferrari",
+        "performance": 30.92,
+        "dnf": false,
+        "points": 7
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 8,
+        "driver": "Luigi Fagioli",
+        "team": "ERA",
+        "performance": 29.69,
+        "dnf": false,
+        "points": 4
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 9,
+        "driver": "Piero Scotti",
+        "team": "Ferrari",
+        "performance": 28.84,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 10,
+        "driver": "Pascal Fabre",
+        "team": "Alta",
+        "performance": 25.7,
+        "dnf": false,
+        "points": 1
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 11,
+        "driver": "Paco Godia",
+        "team": "Cooper",
+        "performance": 25.16,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 12,
+        "driver": "Pablo Birger",
+        "team": "Maserati",
+        "performance": 22.22,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 13,
+        "driver": "Hans Stuck",
+        "team": "Maserati",
+        "performance": 22.01,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 14,
+        "driver": "Neville Lederle",
+        "team": "Simca",
+        "performance": 20.58,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 15,
+        "driver": "Luiz Bueno",
+        "team": "Alta",
+        "performance": 11.36,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 16,
+        "driver": "Maur\u00edcio Gugelmin",
+        "team": "Talbot Lago",
+        "performance": 36.199999999999996,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 17,
+        "driver": "Doug Serrurier",
+        "team": "Kurtis Kraft",
+        "performance": 26.4,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 18,
+        "driver": "Bruno Giacomelli",
+        "team": "Kurtis Kraft",
+        "performance": 43.599999999999994,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 19,
+        "driver": "Rikky von Opel",
+        "team": "Simca",
+        "performance": 24.5,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Swiss GP (Circuit Bremgarten)",
+        "race_position": 20,
+        "driver": "Daniel Ricciardo",
+        "team": "ERA",
+        "performance": 32.459999999999994,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 1,
+        "driver": "Ayrton Senna",
+        "team": "Simca",
+        "performance": 57.199999999999996,
+        "dnf": false,
+        "points": 25
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 2,
+        "driver": "Jenson Button",
+        "team": "Maserati",
+        "performance": 54.059999999999995,
+        "dnf": false,
+        "points": 18
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 3,
+        "driver": "Nick Heidfeld",
+        "team": "ERA",
+        "performance": 43.0,
+        "dnf": false,
+        "points": 15
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 4,
+        "driver": "Graham Whitehead",
+        "team": "Alfa Romeo",
+        "performance": 42.3,
+        "dnf": false,
+        "points": 12
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 5,
+        "driver": "Umberto Maglioli",
+        "team": "Ferrari",
+        "performance": 41.91,
+        "dnf": false,
+        "points": 10
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 6,
+        "driver": "Yuji Ide",
+        "team": "Ferrari",
+        "performance": 32.47,
+        "dnf": false,
+        "points": 8
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 7,
+        "driver": "Kazuki Nakajima",
+        "team": "ERA",
+        "performance": 26.72,
+        "dnf": false,
+        "points": 6
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 8,
+        "driver": "Brian Hart",
+        "team": "Kurtis Kraft",
+        "performance": 26.560000000000002,
+        "dnf": false,
+        "points": 4
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 9,
+        "driver": "Andy Sutcliffe",
+        "team": "Deidt",
+        "performance": 26.04,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 10,
+        "driver": "Karl Kling",
+        "team": "Simca",
+        "performance": 25.4,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 11,
+        "driver": "Bruce Johnstone",
+        "team": "Cooper",
+        "performance": 23.980000000000004,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 12,
+        "driver": "Toni Ulmen",
+        "team": "Deidt",
+        "performance": 21.08,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 13,
+        "driver": "Tony Gaze",
+        "team": "Alta",
+        "performance": 20.0,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 14,
+        "driver": "Tom Jones",
+        "team": "Cooper",
+        "performance": 14.9,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 15,
+        "driver": "Nanni Galli",
+        "team": "Alfa Romeo",
+        "performance": 44.4,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 16,
+        "driver": "Gary Brabham",
+        "team": "Talbot Lago",
+        "performance": 28.0,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 17,
+        "driver": "Jan Flinterman",
+        "team": "Talbot Lago",
+        "performance": 23.75,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 18,
+        "driver": "Corrado Fabi",
+        "team": "Kurtis Kraft",
+        "performance": 32.019999999999996,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 19,
+        "driver": "Jean Behra",
+        "team": "Maserati",
+        "performance": 49.2,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "British GP (Silverstone Circuit)",
+        "race_position": 20,
+        "driver": "Stirling Moss",
+        "team": "Alta",
+        "performance": 41.8,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 1,
+        "driver": "Ayrton Senna",
+        "team": "Simca",
+        "performance": 54.4,
+        "dnf": false,
+        "points": 26
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 2,
+        "driver": "Nanni Galli",
+        "team": "Alfa Romeo",
+        "performance": 46.0,
+        "dnf": false,
+        "points": 18
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 3,
+        "driver": "Nick Heidfeld",
+        "team": "ERA",
+        "performance": 43.0,
+        "dnf": false,
+        "points": 15
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 4,
+        "driver": "Kazuki Nakajima",
+        "team": "ERA",
+        "performance": 40.04,
+        "dnf": false,
+        "points": 12
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 5,
+        "driver": "Stirling Moss",
+        "team": "Alta",
+        "performance": 38.72,
+        "dnf": false,
+        "points": 10
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 6,
+        "driver": "Umberto Maglioli",
+        "team": "Ferrari",
+        "performance": 37.989999999999995,
+        "dnf": false,
+        "points": 8
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 7,
+        "driver": "Corrado Fabi",
+        "team": "Kurtis Kraft",
+        "performance": 37.62,
+        "dnf": false,
+        "points": 6
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 8,
+        "driver": "Yuji Ide",
+        "team": "Ferrari",
+        "performance": 36.72,
+        "dnf": false,
+        "points": 4
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 9,
+        "driver": "Brian Hart",
+        "team": "Kurtis Kraft",
+        "performance": 29.44,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 10,
+        "driver": "Graham Whitehead",
+        "team": "Alfa Romeo",
+        "performance": 29.299999999999997,
+        "dnf": false,
+        "points": 1
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 11,
+        "driver": "Tony Gaze",
+        "team": "Alta",
+        "performance": 27.44,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 12,
+        "driver": "Karl Kling",
+        "team": "Simca",
+        "performance": 23.2,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 13,
+        "driver": "Bruce Johnstone",
+        "team": "Cooper",
+        "performance": 16.240000000000002,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 14,
+        "driver": "Andy Sutcliffe",
+        "team": "Deidt",
+        "performance": 14.700000000000001,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 15,
+        "driver": "Tom Jones",
+        "team": "Cooper",
+        "performance": 13.43,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 16,
+        "driver": "Gary Brabham",
+        "team": "Talbot Lago",
+        "performance": 29.55,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 17,
+        "driver": "Jan Flinterman",
+        "team": "Talbot Lago",
+        "performance": 24.35,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 18,
+        "driver": "Jean Behra",
+        "team": "Maserati",
+        "performance": 40.2,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 19,
+        "driver": "Jenson Button",
+        "team": "Maserati",
+        "performance": 53.989999999999995,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Monaco GP (Circuit de Monaco)",
+        "race_position": 20,
+        "driver": "Toni Ulmen",
+        "team": "Deidt",
+        "performance": 28.56,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 1,
+        "driver": "Ayrton Senna",
+        "team": "Simca",
+        "performance": 56.8,
+        "dnf": false,
+        "points": 25
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 2,
+        "driver": "Stirling Moss",
+        "team": "Alta",
+        "performance": 55.0,
+        "dnf": false,
+        "points": 18
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 3,
+        "driver": "Jenson Button",
+        "team": "Maserati",
+        "performance": 54.69,
+        "dnf": false,
+        "points": 15
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 4,
+        "driver": "Umberto Maglioli",
+        "team": "Ferrari",
+        "performance": 47.79,
+        "dnf": false,
+        "points": 12
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 5,
+        "driver": "Corrado Fabi",
+        "team": "Kurtis Kraft",
+        "performance": 38.879999999999995,
+        "dnf": false,
+        "points": 11
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 6,
+        "driver": "Nanni Galli",
+        "team": "Alfa Romeo",
+        "performance": 37.599999999999994,
+        "dnf": false,
+        "points": 8
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 7,
+        "driver": "Gary Brabham",
+        "team": "Talbot Lago",
+        "performance": 27.65,
+        "dnf": false,
+        "points": 6
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 8,
+        "driver": "Jean Behra",
+        "team": "Maserati",
+        "performance": 27.200000000000003,
+        "dnf": false,
+        "points": 4
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 9,
+        "driver": "Karl Kling",
+        "team": "Simca",
+        "performance": 27.0,
+        "dnf": false,
+        "points": 2
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 10,
+        "driver": "Andy Sutcliffe",
+        "team": "Deidt",
+        "performance": 26.880000000000003,
+        "dnf": false,
+        "points": 1
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 11,
+        "driver": "Kazuki Nakajima",
+        "team": "ERA",
+        "performance": 24.2,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 12,
+        "driver": "Tom Jones",
+        "team": "Cooper",
+        "performance": 11.75,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 13,
+        "driver": "Brian Hart",
+        "team": "Kurtis Kraft",
+        "performance": 8.8,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 14,
+        "driver": "Bruce Johnstone",
+        "team": "Cooper",
+        "performance": 4.199999999999999,
+        "dnf": false,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 15,
+        "driver": "Graham Whitehead",
+        "team": "Alfa Romeo",
+        "performance": 36.8,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 16,
+        "driver": "Yuji Ide",
+        "team": "Ferrari",
+        "performance": 33.66,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 17,
+        "driver": "Jan Flinterman",
+        "team": "Talbot Lago",
+        "performance": 24.5,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 18,
+        "driver": "Toni Ulmen",
+        "team": "Deidt",
+        "performance": 16.32,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 19,
+        "driver": "Nick Heidfeld",
+        "team": "ERA",
+        "performance": 43.0,
+        "dnf": true,
+        "points": 0
+    },
+    {
+        "track": "Indianapolis 500 (Indianapolis Motor Speedway)",
+        "race_position": 20,
+        "driver": "Tony Gaze",
+        "team": "Alta",
+        "performance": 14.11,
+        "dnf": true,
+        "points": 0
+    }
+]
